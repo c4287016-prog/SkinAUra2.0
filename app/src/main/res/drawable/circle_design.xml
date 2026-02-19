@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="oval">
+
+    <!-- Gradient fill (same as card) -->
+    <gradient
+        android:startColor="#FFFDF8"
+        android:endColor="#FAF0E6"
+        android:angle="135"
+        android:type="linear" />
+
+    <!-- Soft border (same tone as card) -->
+    <stroke
+        android:width="1dp"
+        android:color="#D2BBA0" />
+
+</shape>

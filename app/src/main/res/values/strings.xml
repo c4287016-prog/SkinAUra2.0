@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">SkinAura2.0</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="skin_types">
+        <item>Select Skin Type</item>
+        <item>Oily Skin</item>
+        <item>Dry Skin</item>
+        <item>Sensitive Skin</item>
+        <item>Combination Skin</item>
+    </string-array>
+
+    <string-array name="product_types">
+        <item>Select Product Type</item>
+        <item>Cleanser</item>
+        <item>Moisturizer</item>
+        <item>Sunscreen</item>
+        <item>Serum</item>
+    </string-array>
+</resources>
